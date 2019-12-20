@@ -1,4 +1,4 @@
-<h1> <a href="https://ej0002.github.io/Restaurant-website/index.html">Restaurant-website</a></h1>
+<h1> <a href="https://habesha-restaurant.glitch.me/">Restaurant-website</a></h1>
 
 <p> It is an ethiopian restaurant website that allows customers to find information like menus, location, hours of operation and contact info easily without too much distraction. The customer can also get a sense of what the restaurant is about, the atmosphere, service and quality of food through the design aspects of this website</p> 
 <h2>Technologies</h2>
